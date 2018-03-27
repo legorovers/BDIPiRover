@@ -1,5 +1,5 @@
 import time
-import sim_robot as robohat
+import simrobot as robohat
 
 beliefbase = {}
 goalbase = {}

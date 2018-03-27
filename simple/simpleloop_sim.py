@@ -1,6 +1,6 @@
 import time
 import bdiagent_sim as bdiagent
-import sim_robot as robohat
+import simrobot as robohat
 
 def reverse_rule(beliefbase):
 	print "Obstacle!"
